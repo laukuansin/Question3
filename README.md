@@ -1,6 +1,6 @@
 # Question3
 <h2> Demo</h2>
-You may download (https://github.com/laukuansin/Question3/blob/96e7dec47ca28f39428dcf6266e876c41ea3f916/Question3/Question3/bin/Debug/Question3.exe) and try at your local PC.
+You may download the source file and run this (https://github.com/laukuansin/Question3/blob/96e7dec47ca28f39428dcf6266e876c41ea3f916/Question3/Question3/bin/Debug/Question3.exe) at your local PC.
 <h2>Sample URI</h2>
 <ul>
   <li>sftp://demo@test.rebex.net/pub/example/mail-editor.png</li>
